@@ -166,17 +166,6 @@ CMD ["python", "app.py"]
 MIT
 
 yaml
-Copy
-Edit
 
 ---
 
-
-
-
-
-
-
-
-
-Ask ChatGPT
