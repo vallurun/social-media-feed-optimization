@@ -116,9 +116,6 @@ Batch scoring or precompute partial scores offline.
 🔧 Configuration & Tuning
 Open app.py and adjust:
 
-python
-Copy
-Edit
 def rank_score(p):
     return 0.5 * p["freshness"] + 0.3 * p["affinity"] + 0.2 * p["engagement"]
 Increase the freshness weight for more “breaking news” feel.
